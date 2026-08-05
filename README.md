@@ -1,104 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=200&section=header&text=%C3%96mer%20Faruk%20G%C3%BCr%C3%BCn&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=150&section=header&text=%C3%96mer%20Faruk%20G%C3%BCr%C3%BCn&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%" />
+  
+  <h3>Software Engineer | Full-Stack & Mobile Developer</h3>
+  
+  <p>
+    Building scalable web applications, robust backend systems, and cross-platform mobile experiences. 
+    Currently focused on modern architectures, AI-integrated workflows, and continuous deployment.
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+👋;I'm+Ömer+Faruk;CS+Student+%40+Selçuk+University;Flutter+%26+.NET+%26+AI+Enthusiast)](https://git.io/typing-svg)
-
----
-
-[![📧 Email](https://img.shields.io/badge/-📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:omergurun541@gmail.com)
-[![🔗 LinkedIn](https://img.shields.io/badge/-🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/omer-faruk-gurun-5ab2a2333/)
-[![⚡ GitHub](https://img.shields.io/badge/-⚡%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ofgurun)
-
-![📍 Location](https://img.shields.io/badge/📍%20Location-Konya%20%2F%20Ankara%2C%20Türkiye-blue?style=flat-square&labelColor=red&color=blue)
-![💼 Status](https://img.shields.io/badge/💼%20Status-Student%20%26%20Developer-success?style=flat-square&labelColor=purple&color=green)
-![🎯 Focus](https://img.shields.io/badge/🎯%20Focus-Flutter%20%26%20.NET%20%26%20Claude%20API-orange?style=flat-square&labelColor=darkviolet&color=blueviolet)
-
----
-
-## 🚀 About Me
-
-I'm a third-year Computer Engineering student at Selçuk University passionate about building practical, cross-platform applications. Rather than spreading too thin, my core expertise lies heavily in **Web, Mobile, and .NET development**. I build robust backend architectures using **C#, .NET Core, ASP.NET MVC, and SQL Server**. On the mobile front, I develop fast and scalable applications using **Flutter, FlutterFlow, and Firebase**.
-
-I am also deeply invested in the practical application of AI in development, actively utilizing tools like the **Claude Code CLI, Claude API, and advanced prompt engineering** to accelerate and enhance my workflows. When I'm not coding, you can probably find me at the gym or reading classic philosophy.
+  <p align="center">
+    <a href="https://github.com/ofgurun?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-View_Here-BB86FC?style=for-the-badge&logo=github" alt="Repositories" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Tools
 
-[![](https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,firebase,git,vscode,figma&theme=dark&perline=8)](https://skillicons.dev)
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</p>
 
-**🚀 Currently Mastering**
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-85%25-blue?style=flat-square&logo=flutter&logoColor=white&labelColor=1A0A2E)](.) [![C#](https://img.shields.io/badge/C%23-80%25-blueviolet?style=flat-square&logo=csharp&logoColor=white&labelColor=1A0A2E)](.) [![.NET](https://img.shields.io/badge/.NET-75%25-purple?style=flat-square&logo=dotnet&logoColor=white&labelColor=1A0A2E)](.)
+**DevOps, Architecture & AI**
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-**🌱 Learning & Exploring**
+---
 
-[![FlutterFlow](https://img.shields.io/badge/FlutterFlow-60%25-blue?style=flat-square&logo=flutter&logoColor=white&labelColor=1A0A2E)](.) [![Claude%20API](https://img.shields.io/badge/Claude%20API-50%25-orange?style=flat-square&logo=anthropic&logoColor=white&labelColor=1A0A2E)](.) [![SQL%20Server](https://img.shields.io/badge/SQL%20Server-70%25-red?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=1A0A2E)](.)
+## 🚀 Featured Projects & Experience
 
-**🔥 Detailed Tech Stack**
-
-**📱 Mobile Development**
-- 🎨 **Frameworks**: Flutter, FlutterFlow
-- ⚡ **Backend/BaaS**: Firebase
-- 🧩 **UI/UX & State**: Dart, Provider/Riverpod
-
-**💻 Web & Backend Architecture**
-- 🛠️ **Language**: C#
-- 🔧 **Frameworks**: .NET Core, ASP.NET MVC
-- 🗄️ **Databases**: SQL Server, SQLite
-
-**🤖 AI Development Tools**
-- 🧠 **Integration**: Claude API, Claude Code CLI
-- ⚙️ **Skills**: Prompt Engineering & AI-assisted coding workflows
-
-**⚙️ Tools & Workflow**
-- 🔄 **Version Control**: Git, GitHub
-- 💻 **IDE**: VS Code, Visual Studio
-- 🎨 **Design**: Figma
+*   **Puzzle Blast:** Actively developing a 2D puzzle block-matching mobile game. Designing mechanics and preparing the architecture for upcoming Play Console deployment.
+*   **Hastane Randevu Sistemi (Hospital Appointment System):** Developed a comprehensive full-stack open-source application designed to manage hospital resources, patient appointments, and scheduling efficiently.
+*   **Food Delivery Platforms:** Built cross-platform mobile experiences using Flutter, focusing on seamless UI/UX and robust backend integrations for food ordering applications.
+*   **Local Infrastructure Management:** Experienced in setting up and administrating multi-node local Kubernetes clusters for development and testing environments on Linux.
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Ömer Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofgurun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A0A2E&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofgurun&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=1A0A2E&title_color=BB86FC&text_color=ffffff)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofgurun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1A0A2E&title_color=BB86FC&icon_color=BB86FC&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofgurun&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=true&bg_color=1A0A2E&title_color=BB86FC&text_color=ffffff" width="48%" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ofgurun&theme=radical&hide_border=true&background=1A0A2E&stroke=BB86FC&ring=BB86FC&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=BB86FC&sideNums=ffffff)](https://github.com/ofgurun)
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ofgurun&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ofgurun&bg_color=1A0A2E&color=BB86FC&line=BB86FC&point=ffffff&hide_border=true&area=true&area_color=BB86FC)](https://github.com/ofgurun)
-
----
-
-## 🌟 Current Focus & Personal Interests
-
-- 🏗️ **Architecture & Backend** — Deepening my expertise in C# and SQL Server to build scalable tracking systems and applications
-- 📱 **Mobile UI/UX** — Rapidly prototyping and deploying apps using Flutter and FlutterFlow
-- 🤖 **AI Workflows** — Exploring the Claude ecosystem (API & CLI) to push the boundaries of coding assistants
-- 🌍 **Language & Literature** — Currently learning German (A1 level) and reading classic philosophy and literature from Socrates, Leibniz, and Chekhov
-
----
-
-## 💭 Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Let's+Connect+%26+Build+Something+Amazing!;Always+Learning%2C+Always+Growing+🚀;Open+to+Collaborate+on+Cool+Projects!)](https://git.io/typing-svg)
-
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ofgurun&color=BB86FC&style=for-the-badge&label=Profile+Views)](https://github.com/ofgurun)
-[![Followers](https://img.shields.io/github/followers/ofgurun?color=BB86FC&style=for-the-badge&label=Followers&logo=github)](https://github.com/ofgurun)
-[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-BB86FC?style=for-the-badge&logo=github)](https://github.com/ofgurun)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=100&section=footer&animation=twinkling" />
-
-⭐ **Star some repositories if you find them interesting!**
-
-*Happy Coding! 🚀*
-
-**Made with ❤️ and lots of ☕**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20&height=100&section=footer&animation=twinkling" width="100%" />
+</div>
